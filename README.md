@@ -16,7 +16,7 @@ This repository contains custom implementations of key machine learning algorith
 
 ## Project Structure
 
-- `logistic_regression.py` – Contains the implementation of Logistic Regression with gradient descent.
-- `decision_tree.py` – Includes both the basic and improved implementations of Decision Trees.
-- `notebooks/` – Jupyter notebooks demonstrating the application of these models on various datasets.
-- `data/` – Sample datasets used in the experiments (e.g., Breast Cancer, Rotten Tomatoes Reviews, Bank Marketing).
+- Contains the implementation of Logistic Regression with gradient descent.
+- Includes both the basic and improved implementations of Decision Trees.
+- Jupyter notebooks demonstrating the application of these models on various datasets.
+- Sample datasets used in the experiments (e.g., Breast Cancer, Rotten Tomatoes Reviews, Bank Marketing)
